@@ -159,7 +159,7 @@ button {
   -ms-border-radius: 9px;
   -o-border-radius: 9px;
   background-color: var(--primary-2);
-   box-shadow: 2px 18px 18px 0px rgba(59, 75, 255, 0.849);
+  box-shadow: 5px 17px 18px 6px #3b79ff6b;
   color: var(--neutral-1);
   font-size: 1.1rem;
   font-weight: 900;
@@ -167,7 +167,7 @@ button {
 }
 
 button:active {
-  box-shadow: 5px 17px 18px 6px #3b79ff6b;
+  box-shadow: 2px 18px 18px 0px rgba(59, 75, 255, 0.849);
 }
 
 .pay-cancel .black-link {
