@@ -167,14 +167,14 @@ button {
 }
 
 button:active {
-  box-shadow: 0 5px 10px var(--neutral-3), 5px 17px 18px 6px #3b79ff6b;
+  box-shadow: 5px 17px 18px 6px #3b79ff6b;
 }
 
 .pay-cancel .black-link {
   color: var(--neutral-2);
   font-weight: 700;
   display: block;
-  padding-top: 1.2rem;
+  padding-top: 1.5rem;
   text-align: center;
   font-size: 0.8rem;
   text-decoration: none;
