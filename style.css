@@ -49,7 +49,7 @@ main {
   overflow: hidden;
   border-bottom-right-radius: 15px;
   border-bottom-left-radius: 15px;
-  box-shadow: 0 20px 30px var(--neutral-3);
+  box-shadow: 5px 17px 18px 6px #3b79ff6b;
   /* visibility: hidden; */
   position: absolute;
   z-index: 10;
@@ -159,7 +159,7 @@ button {
   -ms-border-radius: 9px;
   -o-border-radius: 9px;
   background-color: var(--primary-2);
-  box-shadow: 0 20px 30px var(--primary-1);
+   box-shadow: 2px 18px 18px 0px rgba(59, 75, 255, 0.849);
   color: var(--neutral-1);
   font-size: 1.1rem;
   font-weight: 900;
@@ -167,7 +167,7 @@ button {
 }
 
 button:active {
-  box-shadow: 0 5px 10px var(--neutral-3);
+  box-shadow: 0 5px 10px var(--neutral-3, 5px 17px 18px 6px #3b79ff6b;
 }
 
 .pay-cancel .black-link {
